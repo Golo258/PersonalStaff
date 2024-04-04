@@ -1,0 +1,22 @@
+
+
+To learn:
+	Pandas
+	Flask
+	Django
+	Kubernetess:
+		Learn docker - how does it work, creating containers etc.
+		Basic concepts and terminology, 
+		Mincube - localn claster on PC, 
+		YAML - what is it and how to create Yaml code
+
+	Docker:
+		Rejest- np: Docker Hub: 
+			przechowuje w sobie obrazy  
+		Obraz - coś jak klasa
+		Container - coś jak instancja tej klasy(obrazu)
+			Na bazie jednego obrazu, możemy uruchomić sobie wiele kontenerów 
+
+	AWS
+	SQL, and others databases
+	Spinnaker 	

@@ -1,0 +1,73 @@
+Docker:
+		Rejest- np: Docker Hub: 
+			przechowuje w sobie obrazy  
+		Obraz - coś jak klasa
+		Container - coś jak instancja tej klasy(obrazu)
+			Na bazie jednego obrazu, możemy uruchomić sobie wiele kontenerów 
+
+przykładowe uruchomienie kontenera:
+	docker run -d -p 80:80 docker/getting-started
+	-d - run container in detached mode
+	-p - map port 80 to host port 80
+	docker/getting-started - the image to use 
+
+docker run image - running the image
+docker images -> show our images 
+docker container ls -a -> list our containeres
+docker stop ContinerPort
+
+images are readonly, cannot modified 
+container is writable, can be modified 
+
+docker pull image - pobieranie obrazu 
+	bez podawania wersji pobiera nam latests
+	podanie wersji to
+		image:wersja np : httpd:2.4.58-alpine
+
+	its loading our image and its layers and then its cashing it in our memory
+
+Docker hub to jest jak github:
+	możemy wysłać obrazy do repozytorium, obrazy mogą zawierać różne rzeczy, kod, aplikacje, serwery itp
+
+Potem aby urochomić to:
+	to runujemy sobie kontener na podstawie obrazów
+np;
+	runowanie serwera apache
+	docker run -d --name apache-app nasz_port(8080):port apache(80) image:version
+
+version:
+	Każdy obraz ma jakąś wersje
+		Obraz ma wiele warstw 
+		Alpine - najniższy 
+docker rm container - remove container by its id
+docker rmi image - remove image by its id 
+
+Wejscie do kontenera:
+	docker exec -it idContainer /bin/sh
+
+	-it - interactive tty
+
+Po zmianach wprowadzonych na kontenerze możemy zapisać je poprzez commit obrazu
+
+docker commit identyfikator nazwa_zmienionego_obrazu
+po commicie możemy zobaczyć historie jakie zmiany zroibliśmy
+	docker history obraz:wersja
+
+Budowanie obrazów DockerFile:
+	dockerfile references - dokumentacja
+
+ADD
+ przenoszenie plików z komputera hosta do obrazu
+
+COPY-
+ przenoszenie plików z komputera hosta do contenera
+
+ENV- zmienne środowiskowe
+
+EXPOSE - określenie portu uruchamianej aplikacji
+
+FROM - mówimy z jakiego obrazu rodzica chcemy skorzystać
+ 
+Budowanie instrukcji za pomocą DockerFile:
+	docker build -t nazwa_obrazu/autor:versja ./
+	./ ( katalog gdzie jest DockerFile)
