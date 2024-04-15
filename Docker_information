@@ -113,3 +113,54 @@ Volumeny:
 W momencie gdy tworzymy nowe kontenery na danym obrazie to gdy damy tam ten sam wolumen to jest on wspóldzielony z wszystkimi kontenerami dla danego obrazu 
 	Możemy też podpiąć volumen z dysku lokalnego
 		dajemy -v C:/Users:/katalog
+
+Tworzenie bazy danych na kontenerze dockerowym:
+	docker pull mariadb
+		sprawdzamy czy jest taka sama wersja jak chcemy miec w aplikacji i potem
+		docker run -d --name grzesiu-database 
+		--env MARIADB_USER=golo258 
+		--env MARIADB_PASSWORD=asd 
+		--env MARIADB_ROOT_PASSWORD=asd 
+		--env MARIADB_DATABASE=pslab
+		-p 3307:3306 mariadb
+
+	Mapujemy porty na jeden lokalny:port maridb czyli 3306
+
+	Przywracanie danych na kontenerze bazy danych:
+		jeśli nie ma tam zainstlowanego mysql to robimy:
+			apt update 
+			apt-get install mysql-client
+		mysql -u nazwa_user -p
+			hasło wpisujemy
+		use nasza baza danych
+
+		source sciezka_do_pliku_skopionanego
+Docker sieci:
+	docker network ls 
+	Tworzenie sieci:
+		docker network create --driver options nazwa
+
+		options:
+			bridge
+			host
+			overlay
+			ipvlan
+			macvlan
+			none
+
+	Usuwanie sieci:
+		docker network rm id_sieci
+
+	Domyślnie kontener jest podpięty do sieci bridge
+	Sprawdzanie sieci na kontenerze:
+		docker network inspect nazwa_sieci
+			pokazuje jakie kontenery są podpiete do sieci i ich adresy ip 
+	Kontenery w tej samej sieci widzą siebie
+
+	Przypisywanie sieci do kontenera:
+		docker run -d --name nazwa --network nazwa_sieci -p port1:port2 obraz
+
+	Podłączanie kontenera do innej sieci:
+		rozłaczamy z poprzednią:
+		docker network disconnect nazwa_sieci kontener_id
+		docker network connect 
