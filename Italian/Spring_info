@@ -1,0 +1,161 @@
+
+Adnotacje:
+	Adnotacje klas: mówice springowi że dana klasa należy do niego
+		@Configuration:
+			dana klasa stanowi konfiguracje
+		@Service:
+			dana klasa jest usługodawca - cos dostarcza
+		@Component:
+			dana klasa realizowana w kontekscie springa, 
+				ale nie mamy sprecyzowanych celów
+		@RestController:
+			dana klasa ma stanowić interfejs Restowy
+				np: komunikacja pomiedzy dwoma serwisami za pomoca rest
+					posrednik miedzy 2 serwisami
+		@Controller:
+			dana klasa ma przesyłać do springa jakie dane:
+				np: komunikacja pomiedzy dwoma serwisami
+		@Repository:
+			klasa przechowuje / zarzadza jakimi danymi
+
+
+	@ComponentScan("app") -> mówi springowi żeby przeszukiwał włanie te katalogi
+	w poszukiwaniu Beanów:
+		musi być przynajmniej jedna - żeby spring wiedział co skanować
+
+
+	Adnotacje metodL
+		@GetMapping(end_point wywolujacy metode) -> "/saySth"
+
+-----------------------------------------------------------------------
+tomcat - kontener (serwer) aplikacyjny 
+ -dependency -zależnosc
+
+ Spring-boot:
+ 	mamy wbudowany serwer / konfiguracje 
+ 	 i mozemy pisać kod 
+
+ 	spring context: magazyn
+ 	 gdy jest tworzony obiekt klasy trafia on do magazynu 
+ 	 i staje sie jednym z jego elementów -> 
+ 	 (jeden element - Bean - obiekt zarzadzany przez Springa)
+
+
+Nadajemy klasie adnotacje kiedy wiemy że będzie ona swiadczyć jakas dana usługe:
+	Bedzie na przykład tworzona jednokrotnie - bedzie unikalna 
+		Tylko jedna instancja danego Beana 
+
+
+Dependency Injection: - wstrzykiwanie
+	Tworzymy instancje klasy odpowiedzialnej za Service 
+		spring przy uruchomieniu przeszukuje klasy w poszuiwaniu beanów:
+			Jesli widzi że sa one beanami to sam tworzy ich instancje 
+			 nie musimy ich tworzyć sami 
+		
+		@AutoWired-
+		 spring szuka czy w swoim kontekcie znajduje sie klasa ktora jest 
+		 	przez niego zarzadzana
+		 	jesli jest to wstrzykuje instacje tego beana do tej zmiennej
+
+Sposoby na wstrzykiwanie zaleznosci:
+Bezposrednio
+1. do pola:
+	@AutoWired
+	private CarManager carManager; -> wpierdala tutaj instancje Beana
+
+2. do konstruktora: zalecane 
+@RestController
+public class CarApi{
+	
+	private CarManager carManager;
+	@AutoWired
+	public CarApi (CarManager carManager1){
+		this.carManager = carManager1;
+	}
+}
+3. do setera
+@AutoWired
+public void setCarManager(CarManager carManager){
+	this.carManager  = carManager;
+}
+
+#---------------------------
+Rest Api:
+	Put - update całego obiektu
+	PATCH- update tylko jedna zmienna obiektu
+
+@GetMapping (/getSth)
+
+@PostMapping(/addSth)
+	methoda(RequestBody obiekt)
+--> obiekt klasy musi mieć:
+	- konstruktor bezparametrowy
+	- getery i setery do wszystkichpól
+
+@RequestParam  typ(String np)  nazwa
+-> endpoint bedzie wymagał parametru dodatkowego dla danej metody
+
+Docker:
+	3 elemeenty:
+
+1. Docker file -> plik opisujacy co ma sie wykonac w ramach danego kontenera
+	w nim jest image:
+		nie modyfikowalny plik- zawiera recepte jak ma sie zbudować kontener
+		na jego podstawie budowane sa inne kontenery:
+		kontener: konkretne instancje danego imaga
+
+	Image jest jak klasa w javie
+	A kontener jak instancja tej klasy - obiekt
+#--------------------
+Komendy:
+	docker - kluczowe słowo 
+
+Docker hub:
+	-miejsce składowania obrazów
+		jak repo mavena 
+
+docker search image_name
+	wyszukuje image
+
+docker pull image_name
+	- pobiera image 
+
+docker ps - wyswietla kontenery
+
+Komendy w ramach tworzenia kontenterów:
+	ADD COPY ENV EMPOSE FROM LABEL STOPSIGNAL USER VOLUME WORKDIR
+
+# Kolejnosc postepowania
+	Generujemy sobie jara
+		Maven: clean  | compile  | package
+
+Dodajemy plik DockerFile do projektu z poleceniami:
+	# system operacyjny
+	FROM openjkd:22-ea-21-jdk-bullseye
+	# element dodawan, z jakiego katalogu
+	ADD target/videoApp-0.0.1-SNAPSHOT.jar .
+	# jaki port bedzie udostepniany na zewnatrz
+	# przez niego bedziemy komunikowac sie z kontenerem
+	EXPOSE 8000
+	# jaka komende wykonujemy
+	CMD java -jar videoApp-0.0.1-SNAPSHOT.jar
+
+#Potem buildujemy sobie obraz jara
+	docker build -f plik -t nazwa_obrazu miejsce 
+		np:
+		docker build -f .\Dockerfile -t video_casset_image:v1 .
+
+docker images - sprawdzenie jaki jest id 
+Puszczamy image:
+	docker run portzDockera:portZAplikacji image_id
+	
+#----------------
+Security:
+	Autentyfikacja:
+		Na forum kiedy chcesz się zalogować:
+			Podaj login i hasło
+	Autoryzacja:
+		Nastepny krok po autentyfikacji:
+			Po zalogowaniu chcesz dodac post na forum
+			Musisz miec do tego odpowiednie uprawnienia
+			
