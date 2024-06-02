@@ -1673,3 +1673,210 @@ i had worked - past perfect
 
 	lui aveva potuto fare di meglio
 		he could have done it better 
+
+	Verbs:
+		saltare - to jump
+		giocare - to play 
+		tirare - to throw 
+		vincere - to win 
+	nouns:
+		gara - race 
+		allenatore - couch - trener 
+		palestra - gym 
+		calcio - the soccer 
+		gioco - game 
+			gioco di parole - word game 
+	adjectives:
+		sopra - over
+		in fondo alla strada - at the end of the street 
+
+	Rozkaz:	
+		non nuotare - dont swim
+
+	życzenie:
+
+
+	via - away
+		Corriamo via dall''orso - we are runnning away from bakery
+
+	Adjectives:
+		effettivamente - actually - właściwie
+		oltretutto - besides - po za tym (wszystkim)
+		neppure - not even
+		dapertutto - everywhere - wszędzie 
+		frequentemente - frequently /often 
+		possibilmente - prawdopodobnie  
+		invece - instead 
+		quindi - therefore - w związku z tym 
+		gravemente - seriously - poważnie
+		eppure - and yet / niemniej jednak 
+	Trzy formy not even:
+		neanche:
+			coś nie jest nawet blisko prawdy, nie jest prawda
+				non sono andata neanche al cinema
+					Nawet nie poszedłem do kina
+
+
+		neppure: nawet on nie wie czegoś
+			
+		nemmeno: nawet nie probował 
+
+		magari - maybe 
+
+		altrimenti - otherwise 
+
+		infatatti - in fact 
+		anzi - in fact / actually 
+
+		particolarmente - especially - szczególnie 
+
+		chissa - who knows 
+
+		addiritura - really /even - naprawde p
+
+#------------------------
+Unit x:	
+	Verbs:
+		brucare - to burn out 
+		aspettare - to wait for 
+		
+	Nouns:
+
+	Adjectives:
+
+
+	Talk about past odmiana:
+		Trovare:
+			Trovero
+			troverai 
+			trovera
+			troveremo
+			troverete
+			roveranno
+
+		Ofrrire:
+			Offriro
+			Offrirai
+			Offrira
+			Offriremo
+			offrirete
+			offriranno
+
+#---------------
+	
+Gerundio
+	Czasowniki:
+		portare - to take - przynosić
+			stiamo portando - przynosimy 
+		mettere - to put
+			sto mettendo - i am putting 
+		prendere - to take / get / make- brać
+			stiamo prendendo una decisione - podejmujemy decyzje
+		lasciare - to leave - zostawić 
+			sto lasciando - zostawiam 
+		chiedere - to ask - pytać
+			stanno chiedendo - pytać 
+		credere - to believe - wierzyć	
+		chiedersi - to wonder - zastanawiać się
+			mi sto chiedendo 
+		sentendo - to hear
+			sta sentendo - słyszy 
+		diventando - to become - stawać się 
+			stai diventando
+		tenere - to keep / hold - trzymac
+			stai tenendo - trzymać
+		capire - to understand - rozumieć
+			stiamo capendo 
+		vincere - to win - wygrać
+			
+		perdere - to lose - przegrać
+			ho perso 
+		perdersi - to lose youself - zgubić się
+		guardare - to watch - oglądać
+			stanno guardando - ogladali 
+
+		seguire - to follow - podążać
+			sto seguendo
+		chiudere - to close
+
+		provare - to try - próbować
+			stiamo provando a fare - i am trying to make 
+
+		unire - to unite / to join- dołączać / łączyć
+			sto unendo - i am joinging 
+
+		indicare  - pointing out - wskazywać
+			stai indicando
+		sucedre - to happen - dziać się
+			sta succedendo
+		cercare - to look for - szukać
+			stavano cercando pietro - they were lokingg for Pietro
+		piovere - to rain - deszcz pada
+			sta piovendo
+
+
+	Przymiotniki:
+		lontano - far away - daleko / odległy 
+		qualcuno - somebody
+		qualcosa - something 
+
+		Useful:
+			ancora - still 
+			anche - even 
+
+Unit 19: Future / ART
+	Future simple:
+		Odmiana:
+			succedere - to happen
+				ucinamy końcówke i dodajemy:
+				succeder:
+					+ o /  + ai / + a / + emo / + ete /+ anno
+
+	will have cooked - bede coś już robił w jakimś momencie
+		Avere - to have
+			avero 
+			avrai 
+			avra
+			avremo
+			avrete
+			avranno
+		+ potem do bezokolicznika dodajemy -
+		-are --> ato 
+		-ere --> uto 
+		-ire --> -ito
+	Przykład:
+		Non avrai creduto alle sue parole
+			YOu will not hasve beleived his words
+				Nie uwierzysz jego słowom
+
+
+	Verbs:
+		ballare - to dance 
+		imparare - to learn 
+		filmare  - to film 
+		dipingere - to paint 
+		fotografare - to photograph 
+		andare via - to leave 
+
+	Nouns:
+		complesso - band / complex
+		camere - rooms 
+		architettura - architecture 
+		ballo / danza - dance
+		disegno - drawing
+		tamburo - drum 
+		i film - movies 
+		chitarra - guitar 
+		esibizione / mostra - exhibition - wystawa 
+		fila - line / queue 
+		spettacolo - show / performance 
+		pianoforte - piano - pianino 
+		imaggini - pictures 
+		palco / palcoscenico - stage - scena 
+		stile - style 
+		fama - fame - sława 
+		pittore - painter 
+		romanzo - novel - romans 
+		macchina fotograficac- camera 
+	Adjectives:
+		entrambi - both
