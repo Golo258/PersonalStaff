@@ -1880,3 +1880,58 @@ Unit 19: Future / ART
 		macchina fotograficac- camera 
 	Adjectives:
 		entrambi - both
+
+#-----------
+Grammar revise:
+	essere - use in related to mobility
+		andare - to go 
+		partire - to leave
+
+		and with reflexive verbs: sedersi
+		
+	avere - the rest
+		mangiare - to eat
+		usare - to use
+
+
+	present perfect:
+		ha trovato -he has found 
+
+		sono arrivato - i have arrived 
+		non sono mai andato - i have never gone  
+
+	will:
+		saro/ai/a/emo/ete/anno
+		avro/ai/a/emoo/ete/anno
+
+
+
+	will have 
+		avro guardato - will have watched
+		saranno arrivati - they will have arrived
+
+	will have been	
+		sara stato aperto - will have been opened
+
+
+#------------
+Unit 37:
+	Discuss abstract concepts:
+		Verbs:
+			imparare - to learn
+			
+		Nouns:
+			l''ombra - shade/ shadow - cień
+			rumore - noise 
+			sensazione - feeling - wrażenie / uczucie 
+			coda - tail / line - ogon
+			concorrenza - competition - konkurencja 
+			caduta - fall - spadek 
+			viso - face - wizerunek
+			timore - fear - strach
+			dignita - dignity -  godność 
+			ricchezza - wealth - bogactwo 
+			delitti - crimes - zbrodnie 
+			indipendentza - independence 
+			falimenti - failures -porażki 
+		Adjectives:
