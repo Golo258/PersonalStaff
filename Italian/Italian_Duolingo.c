@@ -1919,7 +1919,9 @@ Unit 37:
 	Discuss abstract concepts:
 		Verbs:
 			imparare - to learn
-			
+			avere sonno - to be sleepy 
+			essere pronto a - to be ready to
+			avere a che fare - to have to deal 
 		Nouns:
 			l''ombra - shade/ shadow - cień
 			rumore - noise 
@@ -1934,4 +1936,41 @@ Unit 37:
 			delitti - crimes - zbrodnie 
 			indipendentza - independence 
 			falimenti - failures -porażki 
+			guaio / guai - trouble/s
+			odore - smell 
+			abitudine - habit 
+			liberazione - libration - wyzwolenie  
+			sviluppo - development 
+			grido - scream 
+			egualianza - equality - równość 
+			ruolo / ruoli - role / roles 
+
 		Adjectives:
+			cativo - bad 
+			a causa del - because of 
+
+Grammar:
+	czasownik po avere /essere w pasato prossimo
+		I have done 
+	Odmienia się przez liczbe tylko w essere 
+		Le ragazze sono partite 
+		I odmienia się tylko co do osoby wykonującej
+			Lui e andato
+			Loro sono andati
+
+	Ho mangiato la pizza
+	Abbiamo mangiato la pizza 
+
+
+Zaimki dopełnienia:
+	Dirretto:
+		kiedy odnosimy się bezpośrednio do obiektu
+			mi /ti / lo/ la / ci / vi
+			Lei lo ama - she loves him
+				Ona kocha (go)
+	Indiretto:
+		kiedy osoba jest odbiorcą akcji
+			mi /ti /gli / le / ci / vi 
+
+			Lei gli da un regalo - she gaves him a gift
+				Ona daje (mu) prezent 
