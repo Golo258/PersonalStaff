@@ -1893,6 +1893,10 @@ Grammar revise:
 		mangiare - to eat
 		usare - to use
 
+	past perfect:
+		avevo lavorato - had worked 
+		lub 
+		errano passato - had passed
 
 	present perfect:
 		ha trovato -he has found 
@@ -1944,11 +1948,13 @@ Unit 37:
 			grido - scream 
 			egualianza - equality - równość 
 			ruolo / ruoli - role / roles 
+			falimento - failure 
+			
 
 		Adjectives:
 			cativo - bad 
 			a causa del - because of 
-
+			lontano - far away - daleko 
 Grammar:
 	czasownik po avere /essere w pasato prossimo
 		I have done 
@@ -1974,3 +1980,54 @@ Zaimki dopełnienia:
 
 			Lei gli da un regalo - she gaves him a gift
 				Ona daje (mu) prezent 
+
+
+	Lo ha - zawsze bo l'ha' by sie czytało jako la
+	l'ho - jest poprawne a lo ho nie jest poprawne'
+
+Po senza zawsze używamy bezokolicznika:
+	Abbiamo fatto senza perdere dignita
+
+
+Unit 38:
+	Use the subjunctive:
+		Verbs:
+			essere - sia /siano 
+			avere - abbia / abbiate/ abbiano
+			venire - venga / veniate / vengano 
+			potere - possa / possiate / possano 
+			dire - dica  /dicano 
+			vedere - veda / vediate / vedano
+			andare - vada / andiate / vadano
+		Nouns:
+			rischio - risk 
+			
+		Adjectives:
+			per quanto - as far as 
+
+		Grammar:
+			czas che czas w sujuntivo
+			Use:
+				opinions 
+				Feelings
+				preferences 
+				desires
+			Odmiana:
+				-are trovare  
+					io trovi / tu trovi / lui trovi
+					noi troviamo / troviate / trovino
+					czyli ciągle i 
+					a w mnogie dodajemy i oraz końcówke
+
+				-ere -ire bere
+					beva / beva / beva
+					beviamo / beviate / bevano 
+
+					czyli ciągle a
+					a w mnogie dodajemy a oraz końcówke
+
+				trovi / beva 
+				troviamo / beviamo
+				troviate / beviate
+				trovino / bevano 
+
