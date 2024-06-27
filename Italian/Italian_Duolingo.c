@@ -1999,11 +1999,26 @@ Unit 38:
 			dire - dica  /dicano 
 			vedere - veda / vediate / vedano
 			andare - vada / andiate / vadano
+			lasciarsi - to leave / to let 
+			tenere - tenga / teniamo / tengano  
+			tenersi - to be keept - trzymać się
+			suonare - to play / suoni 
+			suppone - to assume 
+			stare - to be  / to stay 
+				stia / stiamo /stiate / stiano 
+
+			dire - dicca / diciamo /diciate / dicano 
+			sapere - sappia / sappiamo ./.
 		Nouns:
 			rischio - risk 
+			chitarra - guitar 
+			testa- head /mind
+				perdere la testa - to lose sb mind 
 			
 		Adjectives:
 			per quanto - as far as 
+			di quanto - than 
+			un'altra parte' - elsewhere 
 
 		Grammar:
 			czas che czas w sujuntivo
@@ -2030,4 +2045,15 @@ Unit 38:
 				troviamo / beviamo
 				troviate / beviate
 				trovino / bevano 
+		Gdy jest inny czas na przykład:
+			have/has  done something
+				To odmieniamy pierwszy czas
+			Avere:
+				abbia / abbiamo/abbiano
+			essere:
+				sia /siamo /siate /siano
 
+
+		Czasowniki modalne w subjuntivo:
+			nawet jak są w przeszłości:
+				could - to dajemy czas teraźniejszy 
