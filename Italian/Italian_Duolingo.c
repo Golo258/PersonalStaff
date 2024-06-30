@@ -2001,7 +2001,7 @@ Unit 38:
 			andare - vada / andiate / vadano
 			lasciarsi - to leave / to let 
 			tenere - tenga / teniamo / tengano  
-			tenersi - to be keept -  trzymać się
+			tenersi - to be keept - trzymać się
 			suonare - to play / suoni 
 			suppone - to assume 
 			stare - to be  / to stay 
@@ -2009,6 +2009,8 @@ Unit 38:
 
 			dire - dicca / diciamo /diciate / dicano 
 			sapere - sappia / sappiamo ./.
+			sperare - to hope 
+			dimenticare - to forget 
 		Nouns:
 			rischio - risk 
 			chitarra - guitar 
@@ -2019,6 +2021,7 @@ Unit 38:
 			per quanto - as far as 
 			di quanto - than 
 			un'altra parte' - elsewhere 
+			bagnato - wet - mokry 
 
 		Grammar:
 			czas che czas w sujuntivo
@@ -2057,3 +2060,46 @@ Unit 38:
 		Czasowniki modalne w subjuntivo:
 			nawet jak są w przeszłości:
 				could - to dajemy czas teraźniejszy 
+
+#--------------------
+Dopełnienie bliższe
+	mi (mnie) | ti (ciebie)  | lo (jego/to - rodzaj męski) | la (ją/to - rodzaj żeński)
+	ci (nas)  | vi (was)     | li (ich - rodzaj męski)	   | le (je - rodzaj żeński)
+
+	lo vedo  - I see him - widzę go  
+	La sento - I hear her  - słysze ją
+Dopełnienie dalsze
+	mi  | ti | gli |  le | ci | vi | gli
+	mnie / tobie jemu, jej 
+
+	Gli ho dato il libro - I gave him the book - dałe mu 
+	Le ho detto qualcosa - I tell her sth -  Powiedziałem jej coś 
+
+Unit 39:
+	DIscuss science:
+		Verbs:
+			scoprire - to discover
+			significare - to mean
+			spiegare - to explain
+			ricercare - to research - posuzkiwanie 
+			avndare giu - to go down - spadać
+		Nouns:
+			campo - field -
+			compito - task 
+			scoperta - discovery 
+			definizione - definition
+			conoscenza - knowleadge/consciousness
+				wiedza / świadomość
+			scienza- science
+			scienziato - scientist 
+			chimica - chemistry 
+			infermiere - nurse 
+			ricerca - search - badanie 
+			modo - way
+			collegamenti - connections 
+			aero /aerei - airplanes 
+		Adjectives:
+			bravo - good 
+			avanti - ahead - być do przodu 
+			avanzata - advanced 
+		Grammar:
