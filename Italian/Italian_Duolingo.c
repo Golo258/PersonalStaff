@@ -41,7 +41,7 @@ la:
 	#----------------------------Przyrządy  
 	una cosa- one thing
 	una bottiglia - the bottle 
-	il piatto - the plate 
+	il piatto - the e 
 	il bicchiere - the glass
 	la tazza - the cup
 	la ciotola - the bowl
@@ -2083,6 +2083,7 @@ Unit 39:
 			spiegare - to explain
 			ricercare - to research - posuzkiwanie 
 			avndare giu - to go down - spadać
+			abbassare- to decrease/ to downo
 		Nouns:
 			campo - field -
 			compito - task 
@@ -2098,8 +2099,60 @@ Unit 39:
 			modo - way
 			collegamenti - connections 
 			aero /aerei - airplanes 
+			riscaldamento - warming / heating 
+			vantaggio - advantage 
+			la plastica - plastic
+			meccanismo - mechanism  
+			laurea - degree 
 		Adjectives:
 			bravo - good 
 			avanti - ahead - być do przodu 
 			avanzata - advanced 
+			pullita - clean - czysta 
+
+Unit 40:
+	Use conditional:
+		Verbs:
+
+		Nouns:
+			venire - verrei / verebbe
+			fare - farei / farebbe 
+			essere - sarei / sarebbe 
+			potere - potrei / potrebbe 
+			vedere - vedrei / vedrebbe 
+			dire - direi / direbbe 
+			andare - andrei / andrebbe -- go  
+			dare - darei / darebbe 
+			chiedere - chiderei / chiederebbe
+			portare - porterei / porterebbe- to take sb / to bring sth
+			prendere - prenderei / prenderebbe - to take sth 
+			parlare - parlerei / parlerebbe 
+
+		Adjectives:
+			via - far away / away 
 		Grammar:
+			talking about possibilities: I would
+
+		Trovare: - to find
+		io trov + erei 
+		tu 	    + eresti
+		lui	    + erebbe
+		noi     + eremmo
+		voi	    + ereste 
+		loro    + erebbero
+
+		Offrire - to offer
+			offr + irei
+			     + iresti
+			     + irebbe
+			     + iremmo 
+			     + ireste
+			     + irebbero
+
+			Czyli jak jest:
+				- are | - ere
+					to mamy e + koncowka
+				- ire 
+					to mamy i + koncowka
+
+
