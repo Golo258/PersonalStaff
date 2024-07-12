@@ -2127,13 +2127,26 @@ Unit 40:
 			portare - porterei / porterebbe- to take sb / to bring sth
 			prendere - prenderei / prenderebbe - to take sth 
 			parlare - parlerei / parlerebbe 
-
+			tenere - terrei / terrebbe 
+			ricordare - to remember
+			ricordarsi - to remind itself - przypomniec sobie
+			avere - avrei / avrebbe
+			sentirsi di - to feel like doing sth
+			
 		Adjectives:
 			via - far away / away 
+			ancora - still
+			anche - even  
+			comunque - anyway
+			nemmeno - not even
+				neanche 
+
+
 		Grammar:
 			talking about possibilities: I would
-
-		Trovare: - to find
+		credere 
+		cred + erebbero
+		Trovare: - to find1
 		io trov + erei 
 		tu 	    + eresti
 		lui	    + erebbe
@@ -2155,4 +2168,29 @@ Unit 40:
 				- ire 
 					to mamy i + koncowka
 
+
+
+	Possibilities in the past 
+			miałbym / zrobiłbym - bym coś zrobił 
+			ja bym 
+			ty byś 
+			on /ona by 
+			oni by 
+			wy byście  
+
+		I would have called/ you would have driven 
+			avere / essere odmienione / essere - gdy jest ruch 
+				avrei/avresti/avrebbe
+				serei/seresti/serebbe
+
+			+ verb - ato/ - uto / - ito
+			 are - ato 
+			 ere - uto
+			 ire - ito 
+
+			 czasownik po andare zawsze ma końcóke - o
+				Avrei lasciato quel posto - I would have left that place - Opuściłbym to miejsce ( w przeszłości )
+			 
+			 a czasownik po essere - kilka ( o a l e )
+			 	Lei ci sarebbe andata - She would have gone there
 
