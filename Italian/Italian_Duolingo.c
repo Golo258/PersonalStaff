@@ -90,8 +90,7 @@ Animals:
 		 tigre - the tiger
 		 mucca - the cow 
 		 sale - salt 
-	l':
-		insetto - the insect 
+	l 		insetto - the insect 
 		gli animali - the animals 
 		uccello  - the bird 
 		animale- the animal
@@ -131,8 +130,8 @@ Cześci zdania:
 			animale - animali 
 	rodzajniki
 		il na I
-		l'uomo oraz lo | gli uomini
-		la i l' na le  - róże
+		l omo oraz lo | gli uomini
+		la i l na le  - róże
 
 	przymiki:
 di - o (kimś,czymś) / z (kimś, czymś) - > dopełniacz
@@ -145,8 +144,7 @@ con - z (kimś, czymś)
 #-------------------------------------
 Il: del / al / dal / nel/ sul
 
-l': dell' / all' / dall' / nell' / sull'
-
+l  dell / all / dall / nell / sull 
 lo: dello /allo / dallo / nello / sullo
 
 la: della / alla / dalla / nella / sulla
@@ -162,7 +160,7 @@ le: delle / alle / dalle / nelle / sulle
 *  abs        *
 
 il - ogólnie 
-l' - przed samogłoskami ( a e i o u)
+l - przed samogłoskami ( a e i o u)
 lo - przed słowami zaczynającymi się na 
 	( s, z , y ,x ,gn , pn , ps , (i , j  ze społgóską )
 
@@ -196,7 +194,7 @@ Leccione: Food
 		   zuppa - the soup 
 		   tacchino - turkey - indyk
 		   forchetta - fork 
-		l':
+		l 
 		   olio - oil
 		   ingrediente- ingredient
 		   insalata - salad 
@@ -277,7 +275,7 @@ Clothing:
 			divisa - uniform
 			scarpa - shoe - but
 
-		l':
+		l 
 			abbigliamento - clothing 
 			orologio - clock
 			ombrello - umbrella 
@@ -302,8 +300,8 @@ Questions:
 
 		Cosa - what - co 
 		Dove - where	 - gdzie 
-			Cos'e ? - What is it
-			Dov'e il cuoco - where is the cook ?
+			Cos  ? - What is it
+			Dov  il cuoco - where is the cook ?
 
 		Quando - when - kiedy 
 
@@ -374,7 +372,7 @@ Present 1:
 
 	AdjectiveS:
 		Como stai ? - how are you - jak tam u ciebie
-		Come va ? - how it's going  - jak leci?
+		Come va ? - how it  going  - jak leci?
 	Grammar:
 		Irregular verbs:
 			fare - to make/have -> faccio/ fai / fa / facciamo/ fate / fanno
@@ -528,7 +526,7 @@ Adjective:
 
 	Grammar:
 		di  - > of / from -> 
-			el gato dil marco - the marco's cat
+			el gato dil marco - the marco  cat
 			Di dove sei - >where are you from 
 		de  - of the / some 
 		
@@ -652,7 +650,7 @@ Months:
 			limpida - clear  - jasny  
 			piccola - little - mała
 			pochino - a bit - mało / trochę 
-			po' di  - little of - trochę 
+			po di  - little of - trochę 
 			acido - sour - kwasne
 		----------------------------------------
 			bello - pretty - ładne 
@@ -788,14 +786,14 @@ Months:
 
 		---------------------------------------- 
 		--- Nouns:
-		l'albergo - the hotel 
+		l lbergo - the hotel 
 		edificio - building
 		ponte - bridge - most 
 		pasticceria - bakery - piekarnia
 		libreria - bookstore 
 		campo - field - pole 
 		citta - city -miasto 
-		l'angolo - corner - róg 
+		l ngolo - corner - róg 
 		fattoria - farm - farma 
 		collina - hill - wzgórze 
 			Noi siamo sulla collina - we are on the hill 
@@ -824,8 +822,8 @@ Moje zdania:
 
 
 	//-----------------
-		cosa c'e - what is it ? 
-		c'e -there is 
+		cosa c  - what is it ? 
+		c  -there is 
 
 Next:
 	Verbs:
@@ -859,7 +857,7 @@ Next:
 		busta - envelope - koperta
 		scatola - box - pudełko 
 		gli occhiali - glasses - okulary 
-		la patente - driver's licence 
+		la patente - driver  licence 
 		tastiera - keyboard - klawiatura 
 		forma - shape - kształt 
 		pezzo - piece - kawałek
@@ -870,7 +868,7 @@ Next:
 		ruota - wheel - 
 		macchina - car - samochód 
 		la nave- the ship - statek 
-		l'alcol - alcohol
+		l lcol - alcohol
 		strumento - instrument 
 		benzina - gasoline - benzyna 
 
@@ -893,7 +891,7 @@ Next:
 	Verbs:
 
 	Nouns:
-		quarante all'ora - forty per hours - km/h
+		quarante all ra - forty per hours - km/h
 		alcuna - any / alguna - 
 		la meta - half
 
@@ -918,7 +916,7 @@ Next:
 
 	Adjectives:
 		altra - other 
-		un'altra- another 
+		un ltra- another 
 		tranne - except / besides 
 		nesunna - any - żadna 
 			non vedo nessuna fraggola
@@ -938,11 +936,11 @@ This / these
 Questo / questa/ questi / queste
 - zmiana formy względem liczby i płci 
 before word that begin with a vowel
-	- quest'anno - this year 
+	- quest nno - this year 
 
 
 That:
-	quell'  - begin with vowel
+	quell  - begin with vowel
 	quello -  z,x,y,gn,ps,s
 	quel - masculine
 	quella - femine 
@@ -1142,7 +1140,7 @@ Wszystkie czasowniki z końcówkami odmienia się przez liczbe i płeć
 				ha detto -
 				dice di - it says to
 			dare -  to give
-				l'ho dato a te - i give it to you 
+				l o dato a te - i give it to you 
 			mostrare - to show 
 				hai mostrato - 
 			essere capace di - to be capable of sth
@@ -1154,7 +1152,7 @@ Wszystkie czasowniki z końcówkami odmienia się przez liczbe i płeć
 				ho svegliato 
 			andare a fare - to be going to do sth 
 			noleggiare - to rent - wypożyczyć 
-				io noleggio l'auto 
+				io noleggio l uto 
 			fare conoscere - to introduced sb
 				mi ha fatto conoscere -he  introduced me 
 			iniziare/ cominciare - to start sth
@@ -1216,14 +1214,14 @@ Wszystkie czasowniki z końcówkami odmienia się przez liczbe i płeć
 		salve - hello
 		ancora - still - nadal
 		anche - even - nawet/ również / takżę 
-		l'angelo - the angel 
-		l'angolo - the corner 
+		l ngelo - the angel 
+		l ngolo - the corner 
 
 	Adjectives:
 		entrambe - both 
 		qualcuno - anybody - ktos / ktokolwiek
 		qualcosa - something 
-			qualcos'altro - something else
+			qualcos ltro - something else
 		qualsiasi - any - jakikolwiek / byle jaki
 		ognuna - each /everybody - każdy 
 			ognuna di noi - each of us 		
@@ -1256,7 +1254,7 @@ Wszystkie czasowniki z końcówkami odmienia się przez liczbe i płeć
 
 		niente - nothing 
 			e meglio di niente 
-				- it's better than nothing 
+				- it  better than nothing 
 
 		tutti - everybody 
 
@@ -1282,7 +1280,7 @@ tell other what to do:
 		 esempio -example:
 		 	parla al telefono con alcuna 
 		 		talk on the telephone with someone 
-		 	prendi l'ombrello
+		 	prendi l mbrello
 		 		take the umbrella
 		 	apri la porta
 		 		open the door
@@ -1321,7 +1319,7 @@ tell other what to do:
 
 		W rozkazach dodajemy osobe po czasowniku
 	Nouns:
-		andiamo - let's go - chodźmy
+		andiamo - let  go - chodźmy
 		foglio - piece of paper - kartka 
 
 	Adjectives:
@@ -1400,7 +1398,7 @@ tell other what to do:
 			spagnolo - spanish
 				La Spagna - Spain
 			Sposa - bride 
-			l'isola - the island 
+			l sola - the island 
 
 			volo - flight
 			passegero - passenger 
@@ -1444,12 +1442,12 @@ Unit 12- give direction /  childhood
 			il bambino non mi lasciava - baby was not letting me do sth 
 	Nouns:
 		uscita - exit - 
-			dov'e l'uscita- where is the exit ?
+			dov  l scita- where is the exit ?
 		inizio - start - poczatek
-			ma e un buon inizio - it's a good start 
+			ma e un buon inizio - it  a good start 
 
 		la fine - the end
-		l'ingresso - the entrance 
+		l ngresso - the entrance 
 		la distanza -the distance 
 
 		lontano - far away - daleko od czegos
@@ -1492,8 +1490,7 @@ Unit 12- give direction /  childhood
 
 	Grammar:
 		Passato prossimo - talk about the past
-			Ho parlato con lei per un'ora
-
+			Ho parlato con lei per un ra 
 		Imperfect: - what you were doing / used to do in past
 			Odmiana: (arrivare)
 				io arrivo / io arriva 		+ vo
@@ -1630,7 +1627,7 @@ Express filings/ discuss abstract concepts
 	#---------------------------
 	English words in italian = lo / gli
 		e lo sport migliore 
-			it's the best sport
+			it  the best sport
 		mi piaccono gli sport
 
 Distant past:
@@ -1665,8 +1662,7 @@ Distant past:
 i had worked - past perfect
 	avere(odmienione) + verb + ato /uto / ito
 	lub
-		l'avevamo fatto insieme'
-			We had done it together
+		l vevamo fatto insieme 			We had done it together
 	essere(odmineione) + verb +ato/uto / insetto	
 		eravamo venuti insieme 
 			we had come together 
@@ -1697,7 +1693,7 @@ i had worked - past perfect
 
 
 	via - away
-		Corriamo via dall''orso - we are runnning away from bakery
+		Corriamo via dall rso - we are runnning away from bakery
 
 	Adjectives:
 		effettivamente - actually - właściwie
@@ -1927,7 +1923,7 @@ Unit 37:
 			essere pronto a - to be ready to
 			avere a che fare - to have to deal 
 		Nouns:
-			l''ombra - shade/ shadow - cień
+			l mbra - shade/ shadow - cień
 			rumore - noise 
 			sensazione - feeling - wrażenie / uczucie 
 			coda - tail / line - ogon
@@ -1982,9 +1978,8 @@ Zaimki dopełnienia:
 				Ona daje (mu) prezent 
 
 
-	Lo ha - zawsze bo l'ha' by sie czytało jako la
-	l'ho - jest poprawne a lo ho nie jest poprawne'
-
+	Lo ha - zawsze bo l a by sie czytało jako la
+	l o - jest poprawne a lo ho nie jest poprawne 
 Po senza zawsze używamy bezokolicznika:
 	Abbiamo fatto senza perdere dignita
 
@@ -2020,7 +2015,7 @@ Unit 38:
 		Adjectives:
 			per quanto - as far as 
 			di quanto - than 
-			un'altra parte' - elsewhere 
+			un ltra parte - elsewhere 
 			bagnato - wet - mokry 
 
 		Grammar:
@@ -2193,4 +2188,14 @@ Unit 40:
 			 
 			 a czasownik po essere - kilka ( o a l e )
 			 	Lei ci sarebbe andata - She would have gone there
+
+
+			 	Wyrażania przypuszczeń, hipotetycznych sytuacji w przeszłosci 
+			 	lub przypuszczeń dotyczących rprzeszłości
+
+			 	Coś się mogło wydarzyć w przeszłości 
+			 		ale prawdopodbnie się nie wydarzyło
+
+			 A conditionzale presente - warunjkowy teraźniejszy
+			 io parlei / parleresti - przypuszczenia życzeń i możliwości
 
