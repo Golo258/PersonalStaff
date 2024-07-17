@@ -2135,6 +2135,8 @@ Unit 40:
 			comunque - anyway
 			nemmeno - not even
 				neanche 
+			altrimenti - otherwise 
+			
 
 
 		Grammar:
@@ -2199,3 +2201,93 @@ Unit 40:
 			 A conditionzale presente - warunjkowy teraźniejszy
 			 io parlei / parleresti - przypuszczenia życzeń i możliwości
 
+
+Unit 79:
+	Verbs:
+		unire - to join 
+		fare affari - to deal
+			affare - to deal  
+		stampare - to print 
+		telefonare - to call 
+
+	Nouns:
+		canale - channel
+		codice - code
+		articolo - article 
+		indirizzo - address 
+		lettore - reader 
+		intervista - interview 
+		giornalista - journalist 
+		invito - invitation 
+		noticia/zie - news 
+		rivista - magazine 
+		posta - mail - poczta 
+		discorso - speech- przemowa 
+		soggetto - subject 
+		argomento - matter / subject 
+		stampa - newspaper 
+		francobollo - stamp 
+		cartolina - postcard
+		dialogo - dialog 
+
+
+	Adjectives:
+		in fondo - at the bottom 
+		rilassante - relaxing 
+
+	Grammar:
+		information - informazioni / e 
+		Writing addres number:
+			FIrest street goes and next number
+				Via Italia 25 - 25, Italia Street 
+
+		feminine - plural / singular - le / la radio
+		Television- Televisore - as a thing 
+		Televisione - as a verb - watching television
+			Guardo la televisione
+			Questo televisore e pesante 
+
+Unit 80:
+	Talk about nature :
+
+	Verbs:
+		avere caldo - to be hot - osobie jest cieło 
+		fare caldo - to be hot - pogoda 
+		piovere - to rain 
+	Nouns:
+		spiagga - beach 
+		il clima - climate 
+		Terra - earth 
+		aira - air 
+		primavera - spring 
+		estate - summer 
+		astmosfera - atmosphere 
+		nuvola - cloud 
+		nebbia - fog - mgła ]
+		giardino - garden 
+		fuoco - fire 
+		l'erba' - the grass - trawa 
+		foresta- forest 
+		lago - lake 
+		fiore - flower 
+		il pianeta - planet 
+		luna - moon - księżyc 
+		piogga - rain 
+		mare - sea 
+		cielo - heaven / sky 
+		roccia - rock 
+		argento - silver 
+
+	Adjectives:
+		dietro - behind 
+		meravigliosa - wonderful
+		paesaggio - landscape - krajobraz 
+		sopra - over - nad 
+		sotto - under / in the 
+		
+	Grammar:
+		Some word end in a and its masculine:
+		La clima 
+		But plural version ends with i not e
+			Il problema
+			I problemi 
