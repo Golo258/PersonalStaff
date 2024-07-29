@@ -2291,3 +2291,21 @@ Unit 80:
 		But plural version ends with i not e
 			Il problema
 			I problemi 
+
+Unit 81:
+	Use the past subjuntivo:
+
+		Verbs:
+			chiedersi - to wonder 
+
+		Nouns:
+
+		Adjectives:
+
+
+		Grammar:
+			Subjuntivo - opinions / feelings / preferneces / desires
+			Jeśli drugi czasownik odnosi się do przeszłości to robimy:
+				avere na subjuntivo - abbia / abbiamo / abbiano
+				essere na subjuntivo - sia / siamo / siano 
+						+ czasownik + ato / uto / ito
