@@ -2254,6 +2254,10 @@ Unit 80:
 		avere caldo - to be hot - osobie jest cieło 
 		fare caldo - to be hot - pogoda 
 		piovere - to rain 
+		nevicare - to snow
+		fumare -to smoke 
+		andare fuori - to go out 
+		annaffiare - to water 
 	Nouns:
 		spiagga - beach 
 		il clima - climate 
@@ -2263,7 +2267,7 @@ Unit 80:
 		estate - summer 
 		astmosfera - atmosphere 
 		nuvola - cloud 
-		nebbia - fog - mgła ]
+		nebbia - fog - mgła 
 		giardino - garden 
 		fuoco - fire 
 		l'erba' - the grass - trawa 
@@ -2277,6 +2281,18 @@ Unit 80:
 		cielo - heaven / sky 
 		roccia - rock 
 		argento - silver 
+		alba - dawn - świt 
+		neve - snow 
+		spazio - space 
+		pietra - stone 
+		temporale - storm - burza 
+		vento - wind 
+		cascata - waterfall 
+		albero - tree 
+		stagiona - season - pora roku 
+		bosco - forest 
+		terreno - ground 
+		sabbia - sandal
 
 	Adjectives:
 		dietro - behind 
@@ -2284,7 +2300,10 @@ Unit 80:
 		paesaggio - landscape - krajobraz 
 		sopra - over - nad 
 		sotto - under / in the 
-		
+		di legno - wooden 
+		soleggiato - sunny 
+		per terra - on the ground 
+
 	Grammar:
 		Some word end in a and its masculine:
 		La clima 
@@ -2297,11 +2316,13 @@ Unit 81:
 
 		Verbs:
 			chiedersi - to wonder 
+			spostare - to move 
 
 		Nouns:
+			albero - tree
 
 		Adjectives:
-
+			come mai - why 
 
 		Grammar:
 			Subjuntivo - opinions / feelings / preferneces / desires
@@ -2309,3 +2330,56 @@ Unit 81:
 				avere na subjuntivo - abbia / abbiamo / abbiano
 				essere na subjuntivo - sia / siamo / siano 
 						+ czasownik + ato / uto / ito
+	Form past subjuntcive 
+
+
+Unit 28:
+	Discuss business:
+		Verbs:
+			consigliare - to advice 
+			costare - to cost 
+			aspettarsi - to expect 
+			vincere - to win 
+			affittare - to rent - wypożyczyć
+
+		Nouns:
+			banca - bank
+			imprenditore - businessman / entrepreneur - przedsiebiorca 
+			pubblicita - advertising - reklama 
+			consiglio - advice 
+			bolletta - bill 
+			collega - colleague 
+			ditta / compagnia - firm /company .
+			moneta - coin 
+			sconto - discount 
+			fabbrica / fabbriche - factory/ries 
+			incontro -meeting 
+			assicurazione - insurance 
+			diregenza - management - kierownictwo 
+			soldi - money 
+			organizzazione - organization 
+			proprietaria - owner 
+			departimento vendite - sales department 
+			stipendio - salary 
+			risorsa - resource
+			rete - network 
+			il personale - staff - 
+			valore - value - wartość 
+			tassa - tax - podatek  
+			denaro - money 
+			finanziamenti - funds - środki 
+			
+
+		Adjectives:
+			in contanti - in cash 
+			di solito / generalmente - usually 
+			a volte - /qualche volte - sometimes
+			spesso - often
+			cento - one hundred
+			a tutti i costi - at all costs 
+			in vendita - on sale - na sprzedaż
+
+
+		Grammar:
+			euro - without changing the number
+			un euro / due euro 
