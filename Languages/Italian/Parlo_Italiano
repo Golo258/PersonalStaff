@@ -1,6 +1,5 @@
 
 
-//------------------------------
 Verbs:
 	mangiare - to eat
 	bevere - to drink
@@ -12,160 +11,145 @@ Verbs:
 	essere - to be
 	avere - to have
 	avere fame - to be hungry
-//------------------------------
 Nouns:
-// kuchenne sprawy 
 	la cucina - the kitchen / kucina 
-il:
-	cuoco - the cook 
-	cibo - the food- jedzenie
-	pesce - the fish 
-	cioccolato - chocolate
-	manzo - the beef - wołowina  
-	biscotto - the cookie 
-	formaggio - the cheese
-	burro - the butter  
-	caffe- the coffee
-	fagiolo - the bean
-	latte - the milk
-	gelato - the ice cream 
-
-la:
-	frutta - the fruit 
-	 bevanda - the beverage - napój 
-	 tarta - the cake 
-	 caramella - the candy - cukierek
-	 carota - the carrot- marchewka
-	 birra - the bear - piwko
-
-	#----------------------------Przyrządy  
-	una cosa- one thing
-	una bottiglia - the bottle 
-	il piatto - the e 
-	il bicchiere - the glass
-	la tazza - the cup
-	la ciotola - the bowl
-	la colazione- the breakfast
-	la cena - the dinner 
-
-#---------------------------------
-Jedzenie: 
-	la bistecca - the steak
-	la limonata - lemonade
-	il panino- sandwich
-
-#-----------------------
-Miejsca:
-	il ristorante - restaurant
-
-//------------------------------
-Przywitania:
-	Buonasera- good evening 
-	buonanotte - good night 
-	ciao - hello
-	Arrivederci - goodbye	
-	Buongiorno - goodmorning
-	Prego - you are welcome 
-	Per favore- please
-	Spiacente - sorry
-#--------------------------------
-Animals:
 	il:
-		serpente - the snake 
-		 lupo - the wolf - wilk 
-		 leone - the lion 
-		 ragno- the spider / 
-		 cane - the dog
-		 gatto - the cat 
-		 topo - the fly - mucha
-		 cavallo - the horse
-		 toro - the bull - byczek
-		 pinguino - the penguin
+		cuoco - the cook 
+		cibo - the food- jedzenie
+		pesce - the fish 
+		cioccolato - chocolate
+		manzo - the beef - wołowina  
+		biscotto - the cookie 
+		formaggio - the cheese
+		burro - the butter  
+		caffe- the coffee
+		fagiolo - the bean
+		latte - the milk
+		gelato - the ice cream 
+
 	la:
-		mosca - the fly 
-		 scimmia - the monkey 
-		 tortaruga - the turtle - żółwik 
-		 farfalla - the butterfly
-		 balena - the whale - wieloryb
-		 tigre - the tiger
-		 mucca - the cow 
-		 sale - salt 
-	l 		insetto - the insect 
-		gli animali - the animals 
-		uccello  - the bird 
-		animale- the animal
-		ape - the bee - pszczoła 
-		orso - the beer- niedzwieć 
-		elefante - the elephant 
-	lo zoo - the zoo 
-	Lo squalo - the shark
+		frutta - the fruit 
+		 bevanda - the beverage - napój 
+		 tarta - the cake 
+		 caramella - the candy - cukierek
+		 carota - the carrot- marchewka
+		 birra - the bear - piwko
+
+	Przyrządy  
+		una cosa- one thing
+		una bottiglia - the bottle 
+		il piatto - the e 
+		il bicchiere - the glass
+		la tazza - the cup
+		la ciotola - the bowl
+		la colazione- the breakfast
+		la cena - the dinner 
+
+	Jedzenie: 
+		la bistecca - the steak
+		la limonata - lemonade
+		il panino- sandwich
+
+	Przywitania:
+		Buonasera- good evening 
+		buonanotte - good night 
+		ciao - hello
+		Arrivederci - goodbye	
+		Buongiorno - goodmorning
+		Prego - you are welcome 
+		Per favore- please
+		Spiacente - sorry
+
+	Animals:
+		il:
+			serpente - the snake 
+			 lupo - the wolf - wilk 
+			 leone - the lion 
+			 ragno- the spider / 
+			 cane - the dog
+			 gatto - the cat 
+			 topo - the fly - mucha
+			 cavallo - the horse
+			 toro - the bull - byczek
+			 pinguino - the penguin
+		la:
+			mosca - the fly 
+			 scimmia - the monkey 
+			 tortaruga - the turtle - żółwik 
+			 farfalla - the butterfly
+			 balena - the whale - wieloryb
+			 tigre - the tiger
+			 mucca - the cow 
+			 sale - salt 
+		l 		insetto - the insect 
+			gli animali - the animals 
+			uccello  - the bird 
+			animale- the animal
+			ape - the bee - pszczoła 
+			orso - the beer- niedzwieć 
+			elefante - the elephant 
+		lo zoo - the zoo 
+		Lo squalo - the shark
 
 
-Adjectives:
-	certi - certain / sure - pewnie 
-	in + il - nel - in the / w czymś, na czymś
-	in + lo - nello - in the 
+	Adjectives:
+		certi - certain / sure - pewnie 
+		in + il - nel - in the / w czymś, na czymś
+		in + lo - nello - in the 
 
-//------------------------------
-Grammar:
-Odmiana:
--Are
-	o / i / a / iamo / ate / ano 
-	Cucinare
-		Cucino / cucini / cucina / cuciniamo / cucinate/ cucinano
+	Grammar:
+	Odmiana:
+	-Are
+		o / i / a / iamo / ate / ano 
+		Cucinare
+			Cucino / cucini / cucina / cuciniamo / cucinate/ cucinano
 
-Avere - to have 
-ho / hai / ha / abbiamo / avete / hanno 
+	Avere - to have 
+	ho / hai / ha / abbiamo / avete / hanno 
 
-// nel / al 
-Cześci zdania:
-	liczby poj | mnoga
-		męskie:
-			zamiana -o na -i
-				il ragazzo / il ragazzi 
-		żeńskie:
-			zamiana -a na -e
-				la ragazza / le ragazze
-		końcowka -e  na -i
-			animale - animali 
-	rodzajniki
-		il na I
-		l omo oraz lo | gli uomini
-		la i l na le  - róże
+	// nel / al 
+	Cześci zdania:
+		liczby poj | mnoga
+			męskie:
+				zamiana -o na -i
+					il ragazzo / il ragazzi 
+			żeńskie:
+				zamiana -a na -e
+					la ragazza / le ragazze
+			końcowka -e  na -i
+				animale - animali 
+		rodzajniki
+			il na I
+			l omo oraz lo | gli uomini
+			la i l na le  - róże
 
-	przymiki:
-di - o (kimś,czymś) / z (kimś, czymś) - > dopełniacz
-a - do, o (czas), w -> celownik
-da od , z, u, przez 
-in - w, do 
-su - na, o 
-con - z (kimś, czymś)
+		przymiki:
+	di - o (kimś,czymś) / z (kimś, czymś) - > dopełniacz
+	a - do, o (czas), w -> celownik
+	da od , z, u, przez 
+	in - w, do 
+	su - na, o 
+	con - z (kimś, czymś)
 
-#-------------------------------------
-Il: del / al / dal / nel/ sul
+	#-------------------------------------
+		Il: del / al / dal / nel/ sul
 
-l  dell / all / dall / nell / sull 
-lo: dello /allo / dallo / nello / sullo
+		l  dell / all / dall / nell / sull 
+		lo: dello /allo / dallo / nello / sullo
 
-la: della / alla / dalla / nella / sulla
+		la: della / alla / dalla / nella / sulla
 
-i: dei / ai / dai / nei / sui
+		i: dei / ai / dai / nei / sui
 
-gli: degli / agli / dagli / negli / sugli
+		gli: degli / agli / dagli / negli / sugli
 
-le: delle / alle / dalle / nelle / sulle 
-#-------------------------------------
+		le: delle / alle / dalle / nelle / sulle 
 
-*  siemano    *
-*  abs        *
+	il - ogólnie 
+	l - przed samogłoskami ( a e i o u)
+	lo - przed słowami zaczynającymi się na 
+		( s, z , y ,x ,gn , pn , ps , (i , j  ze społgóską )
 
-il - ogólnie 
-l - przed samogłoskami ( a e i o u)
-lo - przed słowami zaczynającymi się na 
-	( s, z , y ,x ,gn , pn , ps , (i , j  ze społgóską )
-
-
-#----------------------
 Leccione: Food 
 	Nouns:
 		il:
@@ -205,128 +189,77 @@ Leccione: Food
     Verbs:
     	cenare - to have/eat dinner 
 
-#----------------------------------
-Posesion -lesson
 
-Noun:
-
-Adjectives:
-
-
-Verb:
-
-Grammar:
-english- my dog / my cake 
-italian - il mio cane / la mia torta 
- 	- dla liczby pojednyczej
-		my - mio/a | your - tuo/a
-		his/her - suo/a | our - nostro/a
-		your all / vostro/a | their - loro / loro
-//
-	- dla liczby mnogiej
-	we changed endings like we do in plural 
-	ragazzo- ragazzi / ragazza - ragazze
-		
-		my tomato - il pomodoro/ i tomati / 
-					mio pomodoro / miei pomodori
-			la torta / mia torta
-			le torte / mie torte
-		suoi/sue | nostri/nostre/ | vostri/vostre | loro/loro		
-#------------------------
-sc - in italian when there is e or i before sounds like sh 
-
-E il mio gatto
-	its my cat
-Il gatto e mio 
-	the cat is mine 
-
-propri - own 
-
-#---------------------------
 Clothing:
-
 	Verbs:
 		comprare - to buy 
-
 	Nouns:
-		Il:
-			capotto - coat 
-			portafoglio - wallet
-			abito - suit
-			sandalo - sandal
-			cuoio - leather - skóra
-			guanto  - glove - rękawiczka
-			capello - hat 
-			maglione - sweater xD
-			vestito - dress 
-
-		La:	
-			gonna - skirt - spódnica
-			camicia - shirt - koszula
-			cintura - belt 
-			borsa - bag 
-			gioielleria - jewelry store 
-			tasca - pocket - kieszeń
-				tasche - pockets 
-			giacca - jacket - kurtka 
-			maglia - sweater 
-			calza - the sock 
-				calze - socks
-			divisa - uniform
-			scarpa - shoe - but
-
-		l 
-			abbigliamento - clothing 
-			orologio - clock
-			ombrello - umbrella 
-		lo:
+		capotto - coat 
+		portafoglio - wallet
+		abito - suit
+		sandalo - sandal
+		cuoio - leather - skóra
+		guanto  - glove - rękawiczka
+		capello - hat 
+		maglione - sweater xD
+		vestito - dress 
+		gonna - skirt - spódnica
+		camicia - shirt - koszula
+		cintura - belt 
+		borsa - bag 
+		gioielleria - jewelry store 
+		tasca - pocket - kieszeń
+			tasche - pockets 
+		giacca - jacket - kurtka 
+		maglia - sweater 
+		calza - the sock 
+			calze - socks
+		divisa - uniform
+		scarpa - shoe - but
+		abbigliamento - clothing 
+		orologio - clock
+		ombrello - umbrella 
 			stivale - boot 
 
-	Adjectives:
+	Grammar:
+		Questions:
+			How many -> dependces on all
+				Quanto/a/i/e
+					Quanto succo bevi - How much juice do you drink ?
 
-//-------------------------------------
-Questions:
-	How many -> dependces on all
-		Quanto/a/i/e
-			Quanto succo bevi - How much juice do you drink ?
+			Which - dependese on count - liczbie 
+				Quale/i
+					Quale ragazzo - Which boy - Który/Jaki chłopiec
 
-	Which - dependese on count - liczbie 
-		Quale/i
-			Quale ragazzo - Which boy - Który/Jaki chłopiec
+				If there is e - to be in question
+					Quale drop e - 
+						Qual e il tuo gatto ? Which is your cat ?
 
-		If there is e - to be in question
-			Quale drop e - 
-				Qual e il tuo gatto ? Which is your cat ?
+				Cosa - what - co 
+				Dove - where	 - gdzie 
+					Cos  ? - What is it
+					Dov  il cuoco - where is the cook ?
 
-		Cosa - what - co 
-		Dove - where	 - gdzie 
-			Cos  ? - What is it
-			Dov  il cuoco - where is the cook ?
+				Quando - when - kiedy 
 
-		Quando - when - kiedy 
+				Come - How - jak
+					Come mangi il panino?
+						How do you eat the sandwich 
 
-		Come - How - jak
-			Come mangi il panino?
-				How do you eat the sandwich 
+				Perche ? - why 
 
-		Perche ? - why 
+				Chi - who ? - czyt. hi
 
-		Chi - who ? - czyt. hi
-
-		How many -> policzalne 
-		How much -> niepoliczlane
-Noun:
-	la:
-		risposta - the answer 
-		domanda - the question
+				How many -> policzalne 
+				How much -> niepoliczlane
+		Noun:
+			la:
+				risposta - the answer 
+				domanda - the question
 
 
-//-------------------------------------
 Present 1:
-
 	Verb:
-		
-
 		fare - to make/have
 		stare - to stay
 		andare - to go - iść
@@ -414,7 +347,6 @@ Present 1:
 		il maglione - the sweater 
 		il cucchiaio- the spoon 
 
-/----------------------------------------------------------------------
 Colors leessons:
 	rosa - pink  -> nie odmienia sie 
 	rosso - red 
@@ -436,8 +368,6 @@ Noun:
 	il cappello - the hat 
 	la maglia - the jersey -> sweter/ golf 
 
-//---------------------------------------------------------------
-// conjuction - koniunkcja 
 
 Verb:
 	andare - to  go ->
@@ -479,8 +409,6 @@ Adjective:
 	bensi - but rather -raczej 
 	sia verdura che carne - both vegetables and meat  
 
-// -- Prepr
-
 	Verb:
 		chiedere - to ask for 
 		arrivare - to arrive - 
@@ -491,7 +419,6 @@ Adjective:
 			A zależy od osoby Alla scimmia
 			piacere od rzeczy piacciono le banane  ->
 
-			
 		avere - to have -> ho / hai / ha / abbiamo / avete / hanno 
 		entrere - to enter - wchodzić
 		andare - to  go ->  vado / vai / va  / andiamo / andate / vanno
@@ -545,8 +472,6 @@ Adjective:
 
 		senzo - without 
 
-
-//Time:
 
 Months:
 	are not capitalized in Italian
@@ -2403,9 +2328,19 @@ Unit 83:
 			potere - potesse 
 			volere - volessi 
 			essere - fossi 
+			sapere - sapessi 
+			dare   - dessi 
+			trovarsi - to be - znajdować się - lokalizacja / położenie czegoś/kogoś
+			chiedere - chiedesse 
+
 		Nouns:
 
 		Adjectives:
+			Come se - as if - jakbyśmy 
+			li dentro - in there - tam 
+			di cuanto - than - niż
+				e piu facile di quanto pensassi
+					it's esasier ' than i thought 
 
 		Grammar:
 			Past subjuntivo:
@@ -2415,7 +2350,7 @@ Unit 83:
 
 					But if the first verb is in past, the subjunctive is also in the past
 						Non sapevo da dove venisse lui- I didn't know where he came from
-						Non volevano che io prendessi l'ultimo -
+						Non volevano che io prendessi l'ultimo' -
 							They didn't want me to take the last one 
 							Angielski jest zjebany:
 								Włoski to tłumaczy jako że tryb jest w przeszłości ale angielski tego nie ma
@@ -2439,3 +2374,50 @@ Unit 83:
 								dire = dicessi
 
 					Zazwyczja używane z would do sth
+					To jest ogólnie 2 tryb warunkowy:
+						if they knew the truth, they wouldn't' come here 
+							Gdyby coś się stało, to coś innego też by się stało ( prawdopodobnie )
+
+							Se sapessero la verità non verrebbero qui.
+						Włoski: Se + congiuntivo imperfetto (sapessero) + condizionale presente (verrebbero)
+						Angielski: If + past simple (knew) + would + base form of the verb (come)
+
+							Non sapevo che lui conoscesse tutti.
+						Włoski: Non sapevo che + congiuntivo imperfetto (conoscesse)
+						Angielski: I didn't' know that + past simple (knew)
+
+
+Unit 85:
+	Talk about spirituality:
+		Verbs:
+			dipingere - painting
+
+		Nouns:
+			chiesa- church
+			dio - /dios - god
+			fede - faith - wiara
+			angelo - angel - janioł
+			cattedrale - cathedral 
+			speranza - hope 
+			vita - live 
+			preghiera - prayer
+			meditazione - meditation
+			anima - soul - dusza
+			realta - reality - rzeczywistość
+			coscienza - conscience/ consciousness- świadomość 
+			memoria - memory 
+			virtu - virtue - cnota 
+			depression - depression 
+			desino - destiny 
+			spirito - spirit 
+			esistenza - existence 
+			santa - saint - świeta 
+The bird is on the verge of death.
+		Adjectives:
+			prima di tutto - first of all 
+			poi - then - wtedy
+			a memoria - by heart - na pamieć 
+
+			Fa' mente locale! - Gather your thoughts '
+				Gather - zebrać 
+			impegnata - busy 
