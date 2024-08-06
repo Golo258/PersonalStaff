@@ -2368,6 +2368,7 @@ Unit 28:
 			tassa - tax - podatek  
 			denaro - money 
 			finanziamenti - funds - środki 
+			camera - room - pokój xD 
 			
 
 		Adjectives:
@@ -2379,7 +2380,62 @@ Unit 28:
 			a tutti i costi - at all costs 
 			in vendita - on sale - na sprzedaż
 
+			allora - then
+				anche allora - even then - nawet wtedy 
+
 
 		Grammar:
 			euro - without changing the number
 			un euro / due euro 
+
+			Strona bierna:
+				ci czasownik w formie do danej rzeczy:
+					Ci vuole qualche assicurazione
+						Some insurance is needed
+
+
+Unit 83:
+	Use the past subjuntivo:
+		Verbs:
+			avere - have / avessi/sse 
+			avere ragione - to be right
+			venire - venissi
+			potere - potesse 
+			volere - volessi 
+			essere - fossi 
+		Nouns:
+
+		Adjectives:
+
+		Grammar:
+			Past subjuntivo:
+				After expression related to opinions, feelings, preferences, desires:
+					You need to use verbs in subjunctive as in:
+						Crdo che lui venga. - present
+
+					But if the first verb is in past, the subjunctive is also in the past
+						Non sapevo da dove venisse lui- I didn't know where he came from
+						Non volevano che io prendessi l'ultimo -
+							They didn't want me to take the last one 
+							Angielski jest zjebany:
+								Włoski to tłumaczy jako że tryb jest w przeszłości ale angielski tego nie ma
+									I używa czasu teraźniejszego, dlatego jest takie tłumaczenie 
+						Coniugation:
+							Trovare:
+								io trova + ssi
+								tu trova + ssi
+								lui trova + sse
+								noi trova + ssiamo
+								voi trova + ste 
+								loro trova + ssero 
+
+							Essere : 
+								fossi / fossi / fosse
+								fossiamo / foste/ fossero
+							Wyjątki
+								stare = stessi
+								dare = dessi
+								fare = facessi
+								dire = dicessi
+
+					Zazwyczja używane z would do sth
