@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d971e0-6fb2-485c-a13e-94b89e00282d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Italian_formatted.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjectives.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashcards_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nouns.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verbs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Italian_sentences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spanish_italian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spanish/Babel_Slowka" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2lgyv09h7d8cu7eQexYMOCCVVpE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Grzesiek/Desktop/Repos/PersonalStaff/Languages",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d971e0-6fb2-485c-a13e-94b89e00282d" name="Changes" comment="" />
+      <created>1725616252042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725616252042</updated>
+      <workItem from="1725616254094" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

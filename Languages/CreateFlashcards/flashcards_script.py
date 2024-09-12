@@ -22,18 +22,18 @@ def extract_words_by_category(file_path, target_category):
 
     return words
 
-def save_to_csv(words, output_file):
+def save_to_csv(words, output_file, language_name):
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['Italian', 'English']
+        fieldnames = [language_name, 'English']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for word in words:
-            writer.writerow({'Italian': word[0], 'English': word[1]})
+            writer.writerow({language_name: word[0], 'English': word[1]})
 
-input_file = 'Italian_formatted.txt'
-output_file = 'nouns.csv'
-category = 'Nouns'
+input_file = 'Spanish_formatted.txt'
+output_file = 'SpanishFlashcards/adjectives.csv'
+category = 'Adjectives'
 words = extract_words_by_category(input_file, category)
-save_to_csv(words, output_file)
+save_to_csv(words, output_file, "Spanish")
 
